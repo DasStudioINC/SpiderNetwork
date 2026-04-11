@@ -1,4 +1,4 @@
-package spidernetwork.com.core;
+package com.dasstudioinc.core;
 
 public class Debug {
 
