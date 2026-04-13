@@ -19,7 +19,7 @@ Add the dependency:
 <dependency>
     <groupId>com.github.DasStudioINC</groupId>
     <artifactId>SpiderNetwork</artifactId>
-    <version>v1.0.0</version>
+    <version>v1.0.4</version>
 </dependency>
 
 ```
