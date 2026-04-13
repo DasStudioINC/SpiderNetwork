@@ -21,6 +21,5 @@ Add the dependency:
     <version>v1.0.0</version>
 </dependency>
 
-
-Made by DasStudioINC
 ```
+Made by DasStudioINC
