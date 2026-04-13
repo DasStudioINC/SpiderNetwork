@@ -5,6 +5,7 @@ This is a Java library that allows you to push the bounds of programming using a
 ### Maven
 Add the JitPack repository:
 
+```
 <repositories>
     <repository>
         <id>jitpack.io</id>
@@ -22,3 +23,4 @@ Add the dependency:
 
 
 Made by DasStudioINC
+```
