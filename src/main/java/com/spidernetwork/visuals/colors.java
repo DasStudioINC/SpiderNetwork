@@ -2,6 +2,8 @@ package com.spidernetwork.visuals;
 
 import java.awt.*;
 
+
+
 public class colors {
 
     private static String[] HEX = {
@@ -68,6 +70,13 @@ public class colors {
     };
 
     private static String RESET = "\u001B[0m";
+
+    public static void displayANSI(){
+        for(int i = 0; i < ANSI.length; i++){
+            String[] c = ANSI[i].split(",");
+           System.out.println(nameToAnsi(c[0]) + c[0] + getRESET() + " : " + c[1].trim());
+        }
+    }
 
 
     public static String nameToAnsi(String colorName){
